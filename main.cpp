@@ -43,9 +43,10 @@ void load() {
 			}
 		}
 	}
-	cout << diff << endl << d;
+	wynik << diff << endl << d;
 	
 	ciag.close();
+	wynik.close();
 }
 
 
